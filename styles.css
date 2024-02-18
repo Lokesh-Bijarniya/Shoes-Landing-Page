@@ -62,7 +62,7 @@ nav ul li a:hover {
 }
 
 .sign label{
-    margin-left: 680px;
+    margin-left: 580px;
     padding-top: 10px;color: aliceblue;
     margin-top: 50px;
    font-size: 30px;
@@ -72,7 +72,7 @@ nav ul li a:hover {
     background-color: darkgrey;
 }
 .sign input, .sign a{
-    margin-left: 680px; 
+    margin-left: 580px; 
     margin-top: 10px;
     width: 300px;
     /* background-color: rgb(234, 234, 232); */
@@ -83,12 +83,11 @@ nav ul li a:hover {
 
 .signBtn{
     margin-top: 30px;
-    margin-left: 770px;
+    margin-left: 660px;
     width: 100px;
     font-size: 25px;
     border: 0;
     border-radius: 7px;
-
 }
 .signBtn:hover{
   background-color: #1be505;
@@ -242,6 +241,7 @@ nav ul li a:hover {
     padding: 8px;
     color: black;
   } 
+  
   
 
 
